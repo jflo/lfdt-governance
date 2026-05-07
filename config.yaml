@@ -19,7 +19,6 @@ teams:
       - davidwboswell
       - hartm
       - jwagantall
-      - lanayanelson
       - minyu66
       - thelinuxfoundation
       - tykeal
@@ -29,8 +28,6 @@ teams:
     members:
       - christinaharter
       - hartm
-      - lanayanelson
-      - tkuhrt
   - name: security-managers
     maintainers:
       - hartm
